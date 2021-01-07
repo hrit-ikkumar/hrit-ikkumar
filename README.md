@@ -1,4 +1,4 @@
-## Hi there, I'm Hritik 👋
+# Hi there, I'm Hritik 👋
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 I am a final year student at CTAE Uaipur, pursuing my Bachelors in Computer Science and Engineering.<br>
