@@ -23,7 +23,7 @@ Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 </a>
 
 <a href="https://www.linkedin.com/in/hritik-kumar/">
-  <img align="left" alt="Hritik's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+  <img align="left" alt="Hritik's LinkedIn" src="https://img.icons8.com/dusk/64/000000/twitter.png"/>
 </a>
 
 <a href="mailto:hritix@gmail.com">
