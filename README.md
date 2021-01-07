@@ -1,15 +1,14 @@
-### Hi there 👋
-### I'm Hritik 
+### Hi there, I'm Hritik 👋
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 I am a final year student at CTAE, Uaipur, pursuing my Bachelors in Computer Science and Engineering.<br>
 And also an optimisitic, curious and well-focused developer. :smile: <br>
-I am currently working as a SDE Intern [@MyAnatomy](https://myanatomy.in/), Bangalore. :laptop: <br>
+I am currently working as a SDE Intern [@MyAnatomy](https://myanatomy.in/), Bangalore. :computer: <br>
 
 I have done internships as a Machine Learning Developer Intern [@UdaipurVibes](https://www.udaipurvibes.com/).
 Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 
-- :laptop: Tech Stack: HTML, CSS, JavaScript, React.js, Express.js, MongoDb, Node.js, C++, GraphQL and REST.
+- :computer: Tech Stack: HTML, CSS, JavaScript, React.js, Express.js, MongoDb, Node.js, C++, GraphQL and REST.
 
 
 <a href="https://twitter.com/hrit_ikkumar">
