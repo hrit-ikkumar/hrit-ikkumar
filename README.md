@@ -13,10 +13,10 @@ Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 - 🔭 I’m currently working on MERN Stack (MongoDB, Express.js, React.js, & Node.js)
 - 🌱 I’m currently learning System Design & Kubernetes
 - 👯 I’m looking to collaborate on Interesting Projects
-- 💬 Ask me about Competitive Programming and Web Development (Especially in Backend :love)
+- 💬 Ask me about Competitive Programming and Web Development (Especially in Backend :love:)
 - 📫 How to reach me: www.hritikkumar.me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I never give up :laughing:
+- ⚡ Fun fact: I never give up :sunglasses:
 
 <a href="https://twitter.com/hrit_ikkumar">
   <img align="left" alt="Hritik's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
