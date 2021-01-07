@@ -19,15 +19,15 @@ Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 - ⚡ Fun fact: I never give up :sunglasses:
 
 <a href="https://twitter.com/hrit_ikkumar">
-  <img align="left" alt="Hritik's Twitter" src="https://img.icons8.com/dusk/64/000000/twitter.png"/>
+  <img align="left" alt="Hritik's Twitter" src="https://img.icons8.com/dusk/51/000000/twitter.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hritik-kumar/">
-  <img align="left" alt="Hritik's LinkedIn" src="https://img.icons8.com/dusk/64/000000/linkedin.png"/>
+  <img align="left" alt="Hritik's LinkedIn" src="https://img.icons8.com/dusk/51/000000/linkedin.png"/>
 </a>
 
 <a href="mailto:hritix@gmail.com">
-  <img align="left" alt="Hritik's Email" src="https://img.icons8.com/dusk/64/000000/google-plus.png"/>
+  <img align="left" alt="Hritik's Email" src="https://img.icons8.com/dusk/51/000000/google-plus.png"/>
 </a>
 <!--
 **hrit-ikkumar/hrit-ikkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
