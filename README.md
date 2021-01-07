@@ -27,7 +27,7 @@ Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 </a>
 
 <a href="mailto:hritix@gmail.com">
-  <img align="left" alt="Hritik's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+  <img align="left" alt="Hritik's Email" src="https://img.icons8.com/dusk/64/000000/google-plus.png"/>
 </a>
 <!--
 **hrit-ikkumar/hrit-ikkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
