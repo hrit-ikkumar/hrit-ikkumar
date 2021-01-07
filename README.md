@@ -16,7 +16,7 @@ Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 - 💬 Ask me about Competitive Programming and Web Development (Especially in Backend :heart:)
 - 📫 How to reach me: www.hritikkumar.me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I never give up :sunglasses:
+- ⚡ Life mantra: I never give up :sunglasses:
 
 <a href="https://twitter.com/hrit_ikkumar">
   <img align="left" alt="Hritik's Twitter" src="https://img.icons8.com/dusk/51/000000/twitter.png"/>
