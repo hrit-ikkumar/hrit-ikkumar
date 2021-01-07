@@ -5,13 +5,13 @@ I am a final year student at CTAE Uaipur, pursuing my Bachelors in Computer Scie
 And also an optimisitic, curious and well-focused developer/programmer. :smile: <br>
 I am currently working as a SDE Intern [@MyAnatomy](https://myanatomy.in/), Bangalore. :computer: <br>
 
-I have done internships as a Machine Learning Developer Intern [@UdaipurVibes](https://www.udaipurvibes.com/).
+I have done internships as a Machine Learning Developer Intern [@UdaipurVibes](https://www.udaipurvibes.com/), Udaipur.
 Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 
 - :computer: Tech Stack: HTML, CSS, JavaScript, React.js, Express.js, MongoDb, Node.js, C++, GraphQL and REST.
 
 - 🔭 I’m currently working on MERN Stack (MongoDB, Express.js, React.js, & Node.js)
-- 🌱 I’m currently learning System Design & KuberneteK
+- 🌱 I’m currently learning System Design & Kubernetes
 - 👯 I’m looking to collaborate on Interesting Projects
 - 💬 Ask me about Competitive Programming and Web Development (Especially in Backend :love)
 - 📫 How to reach me: www.hritikkumar.me
