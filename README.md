@@ -19,11 +19,11 @@ Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 - ⚡ Fun fact: I never give up :sunglasses:
 
 <a href="https://twitter.com/hrit_ikkumar">
-  <img align="left" alt="Hritik's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+  <img align="left" alt="Hritik's Twitter" src="https://img.icons8.com/dusk/64/000000/twitter.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hritik-kumar/">
-  <img align="left" alt="Hritik's LinkedIn" src="https://img.icons8.com/dusk/64/000000/twitter.png"/>
+  <img align="left" alt="Hritik's LinkedIn" src="https://img.icons8.com/dusk/64/000000/linkedin.png"/>
 </a>
 
 <a href="mailto:hritix@gmail.com">
