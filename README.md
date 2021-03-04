@@ -3,7 +3,7 @@
 
 I am a final year student at CTAE Uaipur, pursuing my Bachelors in Computer Science and Engineering.<br>
 And also an optimisitic, curious and well-focused developer/programmer. :smile: <br>
-I am currently working as a SDE Intern [@MyAnatomy](https://myanatomy.in/), Bangalore. :computer: <br>
+I am currently working as a Software Engineer [@MyAnatomy](https://myanatomy.in/), Bangalore. :computer: <br>
 
 I have done internships as a Machine Learning Developer Intern [@UdaipurVibes](https://www.udaipurvibes.com/), Udaipur.
 Besides coding, I like public speaking :microphone: and sleeping :sleeping:
