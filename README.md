@@ -2,9 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 I am a final year student at CTAE Uaipur, pursuing my Bachelors in Computer Science and Engineering.<br>
-And also an optimisitic, curious and well-focused developer/programmer. :smile: <br>
+And also an proactive, curious, and well-focused developer/programmer. :smile: <br>
 I am currently working as a Software Developer [@MyAnatomy](https://myanatomy.in/), Bangalore. :computer: <br>
-I am also working as Subject Matter Expert [@Chegg](https://www.chegg.com/), Santa Clara, CA :man_teacher: <br>
+I am also working as a Subject Matter Expert [@Chegg](https://www.chegg.com/), Santa Clara, CA :man_teacher: <br>
 
 I have done internships as a Machine Learning Developer Intern [@UdaipurVibes](https://www.udaipurvibes.com/), Udaipur.
 Besides coding, I like public speaking :microphone: and sleeping :sleeping:
