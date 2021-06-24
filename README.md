@@ -4,11 +4,11 @@
 I am a final year student at CTAE Uaipur, pursuing my Bachelors in Computer Science and Engineering.<br>
 And also an proactive, curious, and well-focused developer/programmer. :smile: <br>
 
-I am currently working as a Full Stack Developer [@Beehive](https://www.beehiveacademy.online/), Delhi. :computer: <br>
+I am currently working as a Full Stack Developer [@Gigwalla](https://www.gigwalla.com/), Delhi, IN. :computer: <br>
 
 I am also working as a Subject Matter Expert [@Chegg](https://www.chegg.com/), Santa Clara, CA. :man_teacher: <br>
 
-I have done internships as a Software Developer Intern [@MyAnatomy](https://myanatomy.in/), Bangalore. :computer: <br> & a Machine Learning Developer Intern [@UdaipurVibes](https://www.udaipurvibes.com/), Udaipur.
+I have done internships as a Software Developer Intern [@MyAnatomy](https://myanatomy.in/), Bangalore, IN. :computer: <br> & a Machine Learning Developer Intern [@UdaipurVibes](https://www.udaipurvibes.com/), Udaipur.
 Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 
 - :computer: Tech Stack: JavaScript, React.js, Express.js, MongoDb, Node.js, C++ and REST.
