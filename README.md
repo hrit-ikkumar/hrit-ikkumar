@@ -4,7 +4,7 @@
 I am a final year student at CTAE Uaipur, pursuing my Bachelors in Computer Science and Engineering.<br>
 And also an proactive, curious, and well-focused developer/programmer. :smile: <br>
 
-I am currently working as a Software Engineer [@ Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer: <br>
+I am currently working as a Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer: <br>
 
 Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 
