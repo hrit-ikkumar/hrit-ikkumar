@@ -1,10 +1,8 @@
 # Hi there, I'm Hritik 👋
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
-I am a final year student at CTAE Uaipur, pursuing my Bachelors in Computer Science and Engineering.<br>
-And also an proactive, curious, and well-focused developer/programmer. :smile: <br>
-
 I am currently working as a Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer: <br>
+And also an proactive, curious, and well-focused developer/programmer. :smile: <br>
 
 Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 
