@@ -8,11 +8,8 @@ Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 
 - :computer: Tech Stack: Java, JavaScript, React.js, Express.js, MongoDb, Node.js, C++ and REST.
 
-- 🔭 I’m currently working on Next.js & Java
+- 🔭 I’m currently working on Java
 - 🌱 I’m currently learning System Design (High Level Design)
-- 👯 I’m looking to collaborate on Interesting Projects
-- 💬 Ask me about Competitive Programming and Web Development (Especially in Backend :heart:)
-- 📫 How to reach me: www.hritikkumar.me
 - 😄 Pronouns: He/Him
 - ⚡ Life mantra: I never give up :sunglasses:
 
