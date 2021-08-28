@@ -2,8 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 I am currently working as a Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer: <br>
-And also an proactive, curious, and well-focused developer/programmer. :smile: <br>
-
 Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 
 - :computer: Tech Stack: Java, JavaScript, React.js, Express.js, MongoDb, Node.js, C++ and REST.
