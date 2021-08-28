@@ -7,9 +7,6 @@ And also an proactive, curious, and well-focused developer/programmer. :smile: <
 Besides coding, I like public speaking :microphone: and sleeping :sleeping:
 
 - :computer: Tech Stack: Java, JavaScript, React.js, Express.js, MongoDb, Node.js, C++ and REST.
-
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning System Design (High Level Design)
 - 😄 Pronouns: He/Him
 - ⚡ Life mantra: I never give up :sunglasses:
 
