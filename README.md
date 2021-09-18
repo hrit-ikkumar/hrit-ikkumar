@@ -2,10 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 I am currently working as a Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer: <br>
-Besides coding, I like public speaking :microphone: and sleeping :sleeping:
+Besides coding, I like to do public speaking :microphone: and sleeping :sleeping:
 
-- :computer: Tech Stack: Java, JavaScript, React.js, Express.js, MongoDb, Node.js, C++ and REST.
-- 😄 Pronouns: He/Him
+- :computer: Tech: Java, JavaScript, Microservices, React.js, Express.js, MongoDb, Node.js.
 - ⚡ Life mantra: I never give up :sunglasses:
 
 <a href="https://twitter.com/hrit_ikkumar">
