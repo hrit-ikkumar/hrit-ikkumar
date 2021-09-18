@@ -1,8 +1,7 @@
 # Hi there, I'm Hritik 👋
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
-I am currently working as a Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer: <br>
-Besides coding, I like to do public speaking :microphone: and sleeping :sleeping:
+A Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer:, Public Speaker & Leader:
 
 - :computer: Tech: Java, JavaScript, Microservices, React.js, Express.js, MongoDb, Node.js.
 - ⚡ Life mantra: I never give up :sunglasses:
