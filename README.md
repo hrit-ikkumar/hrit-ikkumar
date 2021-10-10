@@ -1,5 +1,4 @@
 # Hi there, I'm Hritik 👋
-<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 A Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer:, Public Speaker :microphone: & Leader :leo:.
 
