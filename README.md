@@ -2,7 +2,7 @@
 
 A Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer:, Public Speaker :microphone: & Leader :leo:.
 
-- :computer: Tech: Java, JavaScript, Microservices, React.js, Express.js, MongoDB, Node.js.
+- :computer: Tech: Java, Spring Boot, Spring Actuator, Microservices, TypeScript, Angular, NgRx, React.js, Express.js, MongoDB, Node.js.
 - ⚡ Life mantra: I never give up :sunglasses:
 
 <a href="https://twitter.com/hrit_ikkumar">
