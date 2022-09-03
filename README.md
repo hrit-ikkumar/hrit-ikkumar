@@ -6,7 +6,7 @@ A Sr. Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumb
 - ⚡ Life mantra: I never give up :sunglasses:
 
 <a href="https://twitter.com/hrit_ikkumar">
-  <img align="left" alt="Hritik's Twitter" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
+  <img align="left" alt="Hritik's Twitter" src="https://img.icons8.com/dusk/64/000000/twitter-squared--v1.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hritik-kumar/">
