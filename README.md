@@ -14,7 +14,7 @@ A Sr. Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumb
 </a>
 
 <a href="mailto:hritix@gmail.com">
-  <img align="left" alt="Hritik's Email" src="https://img.icons8.com/dusk/51/000000/google-plus.png"/>
+  <img align="left" alt="Hritik's Email" src="https://img.icons8.com/dusk/51/000000/apple-mail.png"/>
 </a>
 <!--
 **hrit-ikkumar/hrit-ikkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
