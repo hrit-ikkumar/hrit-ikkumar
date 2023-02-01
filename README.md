@@ -1,6 +1,6 @@
 # Hi there, I'm Hritik 👋
 
-A Sr. Software Engineer @ [Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer:, Public Speaker :microphone: & Leader :leo:.
+A Software Engineer (Full Stack) @ [Mantys](https://www.mantys.io/), Bangalore, IN | Previously @ [Morgan Stanley](https://www.morganstanley.com/), Mumbai, IN. :computer:, Public Speaker :microphone: & Leader :leo:.
 
 - :computer: Tech: Java, Spring Boot, Spring Actuator, Microservices, TypeScript, Angular, NgRx, React.js, Express.js, MongoDB, Node.js.
 - ⚡ Life mantra: I never give up :sunglasses:
